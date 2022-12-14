@@ -247,7 +247,7 @@ under the License.
        <repository>
          <id>nexus-snapshot-repo</id>
          <name>your custom repo</name>
-         <url>http://ec2-18-191-181-147.us-east-2.compute.amazonaws.com:8081/repository/maven-snapshots/</url>
+         <url>http://ec2-18-191-181-147.us-east-2.compute.amazonaws.com:8081/repository/java-app/</url>
        </repository>
 	   
      </repositories>
@@ -258,7 +258,7 @@ under the License.
        <repository>
          <id>nexus-release-repo</id>
          <name>your custom repo</name>
-         <url>http://ec2-18-191-181-147.us-east-2.compute.amazonaws.com:8081/repository/maven-release/</url>
+         <url>http://ec2-18-191-181-147.us-east-2.compute.amazonaws.com:8081/repository/java-app/</url>
        </repository>
      </repositories>
    </profile>
